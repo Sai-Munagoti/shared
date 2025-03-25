@@ -1,1 +1,3 @@
-sh git --version
+def call() {
+    sh 'git --version'
+}
